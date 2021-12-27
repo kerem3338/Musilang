@@ -5,7 +5,7 @@ import sys
 try:
     import playsound
 except:
-    print("Please İnstall playsound module")
+    print("Please install playsound module")
 
 
 class Musilang:
