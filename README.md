@@ -7,5 +7,5 @@ Musical programming language
 do re mi fa sol la si
 ```
 
-#Run
+# Run
 `python main.py example.ms`
